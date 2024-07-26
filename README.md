@@ -19,13 +19,17 @@ User stories/deliverables
 
 What CRUD routes you will be using and where (GET and POST are required)
 
+<img width="914" alt="Screenshot 2024-07-26 at 3 54 39 PM" src="https://github.com/user-attachments/assets/74826cb7-2240-4b86-9d1e-b5b5ef11b1d9">
+
+
 What three or more React Router routes you will be using and what components they will be used for (include any params)
 ![Screenshot 2024-07-26 at 9 56 42 AM](https://github.com/user-attachments/assets/2b29229e-9fbf-4f16-9209-515dd5c65715)
 
 
-
-
 A component diagram detailing the purpose of each component (at least five components)
+
+![Screenshot 2024-07-26 at 3 57 41 PM](https://github.com/user-attachments/assets/3c07d0af-5ff1-4f74-b609-69d65440dcca)
+
 
 An example of data for your db.json:
 
