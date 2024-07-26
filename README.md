@@ -28,6 +28,8 @@ What three or more React Router routes you will be using and what components the
 A component diagram detailing the purpose of each component (at least five components)
 
 An example of data for your db.json:
+
+
 <img width="559" alt="Screenshot 2024-07-25 at 7 29 54 PM" src="https://github.com/user-attachments/assets/f7d2eab3-e722-4e75-b025-d291f617fc6e">
 
 
