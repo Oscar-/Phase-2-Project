@@ -21,13 +21,15 @@ body {
 
 .navbar {
   display: flex;
-  gap: 15px; /* Space between links */
+  gap: 15px; 
 }
 
 .navbar a {
   text-decoration: none;
   color: black;
   font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 30px; /* Rounded corners */
 }
 
 .navbar a:hover {
