@@ -1,0 +1,38 @@
+{
+    "places": [
+      {
+        "id": 1,
+        "name": "Patsys Pizzeria",
+        "city": "New York",
+        "category": "Restaurant",
+        "link": "https://parkslope.patsyspizza.nyc/",
+        "rating": 7,
+        "goodFor": "Pizza, Family",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NYC-East_Harlem-Patsy%27s_Pizzeria-01.jpg",
+        "favorite": false
+      },
+      {
+        "id": 2,
+        "name": "Memorial Park",
+        "city": "Houston",
+        "category": "Park",
+        "link": "https://www.memorialparkconservancy.org/",
+        "rating": 8,
+        "goodFor": "Kids, Romantic",
+        "image": "https://www.memorialparkconservancy.org/wp-content/uploads/2020/07/Boardwalk-Walking-Path-over-Hines-Lake-and-wetlands-in-Clay-Family-Eastern-Glades-Image-Courtesy-of-Memorial-Park-Conservancy-scaled.jpg",
+        "favorite": true
+      },
+      {
+        "id": 3,
+        "name": "Laspada's Original Hoagies",
+        "city": "Lauderdale-By-The-Sea",
+        "category": "Restaurant",
+        "link": "https://laspadashoagies.com/",
+        "rating": 9,
+        "goodFor": "Lunch, Takeout",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/83/2c/b0/laspada-s-hoagies.jpg",
+        "favorite": true
+      }
+    ]
+}
+  
