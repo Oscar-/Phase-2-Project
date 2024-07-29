@@ -13,7 +13,7 @@ function About() {
           <ul>
             <li>For students</li>
             <li>For teachers</li>
-            <li>Because it's cool</li>
+            <li>Because it's great</li>
           </ul>
         </main>
       </>
