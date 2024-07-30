@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="07ao_RVqBjxphrWy-h5U" name="Page-1">
-        <mxGraphModel dx="1385" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1385" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -24,25 +24,25 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="App" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="Home" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="365" y="40" width="120" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="4">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="SpotList" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="AllPlaces" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="600" y="240" width="120" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="SpotCard&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="4" value="Place" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="600" y="450" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Header" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="5" value="About&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="110" y="60" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="SpotForm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="6" value="AddPlace" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="365" y="240" width="120" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="SpotMap" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="Map" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="120" y="240" width="120" height="90" as="geometry"/>
                 </mxCell>
             </root>

@@ -32,7 +32,205 @@
         "goodFor": "Lunch, Takeout",
         "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/83/2c/b0/laspada-s-hoagies.jpg",
         "favorite": true
-      }
+      },
+      {
+        "id": 4,
+        "name": "Soho Garden",
+        "city": "Houston",
+        "category": "Cocktail Bar",
+        "link": "https://sohogardenhtx.com/",
+        "rating": 9,
+        "goodFor": "Nightlife, Cocktails",
+        "image": "https://i0.wp.com/blackgirlswhobrunch.com/wp-content/uploads/2019/09/Bravery-Chef-Hall-9.jpg?resize=1100%2C825&ssl=1",
+        "favorite": false
+      },
+      {
+        "id": 5,
+        "name": "Bori",
+        "city": "Houston",
+        "category": "Korean BBQ Restaurant",
+        "link": "https://www.borirestaurant.com/",
+        "rating": 10,
+        "goodFor": "Foodies, Special event",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOT5yCZKrXzPcNitbX0rjeUX6XQnb5Vxukl9ekv=s1360-w1360-h1020",
+        "favorite": true
+      },
+      {
+        "id": 6,
+        "name": "Vibrant",
+        "city": "Houston",
+        "category": "Cafe",
+        "link": "https://www.wearevibrant.com/",
+        "rating": 8,
+        "goodFor": "Brunch, Coffee",
+        "image":"https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_566,q_65,w_768/v1/crm/houston/8715_Interior0-fececd44d6f2696_fecece5b-b1c2-e2db-b9a4550edc8b7880.jpg",
+        "favorite": true
+      },
+      {
+        "id": 7,
+        "name": "Luce Coffee",
+        "city": "Houston",
+        "category": "Coffee",
+        "link": "https://lucecoffeeroasters.com/",
+        "rating": 9,
+        "goodFor": "Coffee, Study/Work",
+        "image": "https://lucecoffeeroasters.com/wp-content/uploads/2024/06/WASHINGTON-INSIDE-BOTTOM-1.png",
+        "favorite": false
+      },
+      {
+        "id": 8,
+        "name": "RiceNMix",
+        "city": "Houston",
+        "category": "Korean Restaurant",
+        "link": "https://www.instagram.com/ricenmixtx/?igshid=MzRlODBiNWFlZA%3D%3D",
+        "rating": 10,
+        "goodFor": "Korean Fried Chicken, Korean Food",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOq37iDxCTr5mIFK35KO1_-Uoob5yDDf0DIYgIK=s1360-w1360-h1020",
+        "favorite": true
+      },
+      {
+        "id": 10,
+        "name": "March",
+        "city": "Houston",
+        "category": "Mediterranean Restaraunt",
+        "link": "https://www.marchrestaurant.com/",
+        "rating": 10,
+        "goodFor": "Culinary Experience, Date Night",
+        "image":"https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/houston/img_1709_2782951A-EC8C-3328-88D435BAE6D9791F-2782926bc84b25a_2782957c-c242-4c49-821b39a2a4d40e42.jpg",
+        "favorite": true
+      },
+      {
+        "id": 11,
+        "name": "Boutros",
+        "city": "New York",
+        "category": "Middle Eastern Restaraunt",
+        "link": "https://boutrosbk.com/",
+        "rating": 10,
+        "goodFor": "American & Middle Eastern cooking",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipO2wZh8yK1Ig70l4vWVTb3rtJAewcmBm9cS7Ngo=s1360-w1360-h1020",
+        "favorite": true
+      },
+      {
+      "id": 12,
+      "name": "Patsys Pizzeria",
+      "city": "New York",
+      "category": "Restaurant",
+      "link": "https://parkslope.patsyspizza.nyc/",
+      "rating": 7,
+      "goodFor": "Pizza, Family",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NYC-East_Harlem-Patsy%27s_Pizzeria-01.jpg",
+      "favorite": false
+    },
+    {
+      "id": 13,
+      "name": "Lilia",
+      "city": "New York",
+      "category": "Italian Restaurant",
+      "link": "https://www.lilianewyork.com/",
+      "rating": 8,
+      "goodFor": "Housmade Pastas & Cocktails",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_Kj1yBxK2rpeWArKKededMsAMpQRVRjA1Q&s",
+      "favorite": true
+    },
+    {
+      "id": 14,
+      "name": "Prime 112",
+      "city": "Miami Beach",
+      "category": "Italian Restaurant",
+      "link": "https://mylesrestaurantgroup.com/",
+      "rating": 9,
+      "goodFor": "Seafood & Grilled meat",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMrq2wgyHQnU4yTxoKocfo2QmCIcFsid-dK_4pM=s1360-w1360-h1020",
+      "favorite": true
+    },
+    {
+      "id": 15,
+      "name": "Casa Tua",
+      "city": "Miami Beach",
+      "category": "Italian Restaurant",
+      "link": "https://www.casatualife.com/Miami.html",
+      "rating": 9,
+      "goodFor": "Italian dishes",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/7b/fb/b9/casa-tua.jpg",
+      "favorite": false
+    },
+    {
+      "id": 16,
+      "name": "Ess-a-Bagel",
+      "city": "New York",
+      "category": "Bagel Cafe",
+      "link": "https://www.ess-a-bagel.com/",
+      "rating": 10,
+      "goodFor": "Bagels, Coffee",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/68/3a/ess-a-bagel-counter.jpg",
+      "favorite": true
+    },
+    {
+      "id": 17,
+      "name": "Versailles",
+      "city": "Little Havana",
+      "category": "Cuban Restaraunt",
+      "link": "https://www.versaillesrestaurant.com/",
+      "rating": 8,
+      "goodFor": "Cuban food",
+      "image":"https://res.cloudinary.com/the-infatuation/image/upload/q_auto,f_auto/images/Versailles-7_1_1_p8giuk",
+      "favorite": true
+    },
+    {
+      "id": 18,
+      "name": "Sushi Nakazawa",
+      "city": "New York",
+      "category": "Sushi",
+      "link": "https://www.sushinakazawa.com/",
+      "rating": 9,
+      "goodFor": "Sushi, Omakase",
+      "image": "https://www.sushinakazawa.com/",
+      "favorite": false
+    },
+    {
+      "id": 19,
+      "name": "Baja Cafe",
+      "city": "Deerfield Beach",
+      "category": "Mexican Restaraunt",
+      "link": "https://bajacafefl.com/",
+      "rating": 10,
+      "goodFor": "Mexican dishes",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/78/5e/3a/baja-cafe-dos.jpg?w=1200&h=-1&s=1",
+      "favorite": true
+    },
+    {
+      "id": 20,
+      "name": "Dons Bogam",
+      "city": "New York",
+      "category": "Korean BBQ Restaurant",
+      "link": "https://www.donsbogam.com/",
+      "rating": 10,
+      "goodFor": "Korean BBQ & Cousine, Wines",
+      "image": "https://media.timeout.com/images/100494215/image.jpg",
+      "favorite": true
+    },
+    {
+      "id": 21,
+      "name": "Capital Grille",
+      "city": "Miami",
+      "category": "American Steakhouse",
+      "link": "https://www.thecapitalgrille.com/locations/fl/miami/miami/8006?cmpid=br:tcg_ag:ie_ch:loc_ca:TCGGMB_sn:gmb_gt:miami-fl-8006_pl:locurl_rd:1004",
+      "rating": 8,
+      "goodFor": "Steak, Wine",
+      "image":"https://lh3.googleusercontent.com/p/AF1QipP0pAy4q8h4qjsiyEfeha7w7N27yDh5Q1JJfR_i=s1360-w1360-h1020",
+      "favorite": true
+    },
+    {
+      "id": 22,
+      "name": "The Greek Tribeca",
+      "city": "New York",
+      "category": "Greek Restaurant",
+      "link": "https://thegreektribeca.com/",
+      "rating": 9,
+      "goodFor": "Greek comfort food & bar",
+      "image": "https://lh3.googleusercontent.com/dWldYwiq2HhfR3bGg6TI3dPEw37jyrg_4rNw2LDegb3SD3q1GAh5cKuJlKgcapXAQsww3KxJu70HCNyOpq_h_FFcVi4cRVGhVFPmB_VTjQ",
+      "favorite": false
+    }
     ]
 }
   

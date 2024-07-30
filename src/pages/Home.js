@@ -19,10 +19,12 @@ function Home() {
   return (
     <>
       <header>
+      <img src="https://www.creativefabrica.com/wp-content/uploads/2020/08/19/Map-icon-isometric-with-location-Graphics-5026868-1-1-580x386.jpg" alt="logo" />
+      <h1 classname="logo-name"> FlatMap </h1>
         {<NavBar />}
       </header>
       <main>
-        <h1>Home</h1>
+        <h1 classname="home">Home</h1>
         {places.map(place => (
         <PlaceCard key={place.id} place={place} />
       ))
