@@ -11,6 +11,7 @@ function Home() {
   useEffect(() => {
     fetch('http://localhost:4000/places')
     .then(res => res.json())
+    //add proper error handling
     .then(data => setPlaces(data))
     .catch(error => console.error(error))
   }, [])
