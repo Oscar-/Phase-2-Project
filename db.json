@@ -2,17 +2,6 @@
     "places": [
       {
         "id": 1,
-        "name": "Patsys Pizzeria",
-        "city": "New York",
-        "category": "Restaurant",
-        "link": "https://parkslope.patsyspizza.nyc/",
-        "rating": 7,
-        "goodFor": "Pizza, Family",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NYC-East_Harlem-Patsy%27s_Pizzeria-01.jpg",
-        "favorite": false
-      },
-      {
-        "id": 2,
         "name": "Memorial Park",
         "city": "Houston",
         "category": "Park",
@@ -23,7 +12,7 @@
         "favorite": true
       },
       {
-        "id": 3,
+        "id": 2,
         "name": "Laspada's Original Hoagies",
         "city": "Lauderdale-By-The-Sea",
         "category": "Restaurant",
@@ -34,7 +23,7 @@
         "favorite": true
       },
       {
-        "id": 4,
+        "id": 3,
         "name": "Soho Garden",
         "city": "Houston",
         "category": "Cocktail Bar",
@@ -45,7 +34,7 @@
         "favorite": false
       },
       {
-        "id": 5,
+        "id": 4,
         "name": "Bori",
         "city": "Houston",
         "category": "Korean BBQ Restaurant",
@@ -56,7 +45,7 @@
         "favorite": true
       },
       {
-        "id": 6,
+        "id": 5,
         "name": "Vibrant",
         "city": "Houston",
         "category": "Cafe",
@@ -67,7 +56,7 @@
         "favorite": true
       },
       {
-        "id": 7,
+        "id": 6,
         "name": "Luce Coffee",
         "city": "Houston",
         "category": "Coffee",
@@ -78,7 +67,7 @@
         "favorite": false
       },
       {
-        "id": 8,
+        "id": 7,
         "name": "RiceNMix",
         "city": "Houston",
         "category": "Korean Restaurant",
@@ -89,7 +78,7 @@
         "favorite": true
       },
       {
-        "id": 10,
+        "id": 8,
         "name": "March",
         "city": "Houston",
         "category": "Mediterranean Restaraunt",
@@ -100,7 +89,7 @@
         "favorite": true
       },
       {
-        "id": 11,
+        "id": 9,
         "name": "Boutros",
         "city": "New York",
         "category": "Middle Eastern Restaraunt",
@@ -111,7 +100,7 @@
         "favorite": true
       },
       {
-      "id": 12,
+      "id": 10,
       "name": "Patsys Pizzeria",
       "city": "New York",
       "category": "Restaurant",
@@ -122,7 +111,7 @@
       "favorite": false
     },
     {
-      "id": 13,
+      "id": 11,
       "name": "Lilia",
       "city": "New York",
       "category": "Italian Restaurant",
@@ -133,7 +122,7 @@
       "favorite": true
     },
     {
-      "id": 14,
+      "id": 12,
       "name": "Prime 112",
       "city": "Miami Beach",
       "category": "Italian Restaurant",
@@ -144,7 +133,7 @@
       "favorite": true
     },
     {
-      "id": 15,
+      "id": 13,
       "name": "Casa Tua",
       "city": "Miami Beach",
       "category": "Italian Restaurant",
@@ -155,7 +144,7 @@
       "favorite": false
     },
     {
-      "id": 16,
+      "id": 14,
       "name": "Ess-a-Bagel",
       "city": "New York",
       "category": "Bagel Cafe",
@@ -166,10 +155,10 @@
       "favorite": true
     },
     {
-      "id": 17,
+      "id": 15,
       "name": "Versailles",
       "city": "Little Havana",
-      "category": "Cuban Restaraunt",
+      "category": "Cuban Restaurant",
       "link": "https://www.versaillesrestaurant.com/",
       "rating": 8,
       "goodFor": "Cuban food",
@@ -177,7 +166,7 @@
       "favorite": true
     },
     {
-      "id": 18,
+      "id": 16,
       "name": "Sushi Nakazawa",
       "city": "New York",
       "category": "Sushi",
@@ -188,10 +177,10 @@
       "favorite": false
     },
     {
-      "id": 19,
+      "id": 17,
       "name": "Baja Cafe",
       "city": "Deerfield Beach",
-      "category": "Mexican Restaraunt",
+      "category": "Mexican Restaurant",
       "link": "https://bajacafefl.com/",
       "rating": 10,
       "goodFor": "Mexican dishes",
@@ -199,7 +188,7 @@
       "favorite": true
     },
     {
-      "id": 20,
+      "id": 18,
       "name": "Dons Bogam",
       "city": "New York",
       "category": "Korean BBQ Restaurant",
@@ -210,7 +199,7 @@
       "favorite": true
     },
     {
-      "id": 21,
+      "id": 20,
       "name": "Capital Grille",
       "city": "Miami",
       "category": "American Steakhouse",
@@ -221,7 +210,7 @@
       "favorite": true
     },
     {
-      "id": 22,
+      "id": 21,
       "name": "The Greek Tribeca",
       "city": "New York",
       "category": "Greek Restaurant",
