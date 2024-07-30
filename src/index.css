@@ -1,22 +1,55 @@
 body {
   font-family: Monospace, sans-serif;
   background: white
- 
 }
 
-/* code {
-  font-family: Monospace, sans-serif;                
-} */
+
  header {
   display: flex;
-  align-items: center; /* Vertically align items */
-  justify-content: space-between; /* Space items evenly */
+  align-items: center;
+  justify-content: space-between;
   padding: 20px;
 }
 
 .logo-name {
   font-size: 24px;
   margin: 0;
+}
+
+.logo-image {
+  width: 150px;
+  height: auto; 
+}
+
+.card-image {
+  width: 250px; 
+  height: auto; 
+  display: block;
+  margin-bottom: '16px';
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: -8px;
+  margin-left: 10px;
+}
+
+.home {
+margin-left: 10px;
+}
+
+.card {
+  flex: 1 1 calc(25% - 16px);
+  box-sizing: border-box;
+}
+
+.place-image {
+  width: 300px; 
+  height: auto; 
+  display: block;
+  margin-bottom: '16px';
 }
 
 .navbar {
@@ -29,22 +62,10 @@ body {
   color: whitesmoke;
   font-size: 18px;
   padding: 10px 20px;
-  border-radius: 30px; /* Rounded corners */
+  border-radius: 30px;
 }
 
 .navbar a:hover {
   text-decoration: underline;
 }
 
-.image-container {
-  display: flex;
-  flex-direction: row; /* Arrange images in a horizontal line */
-  flex-wrap: wrap; /* Optional: wrap to the next line if there are too many images */
-}
-
-.place-image {
-  width: 500px;  /* Set your desired width */
-  height: 500px; /* Set your desired height */
-  object-fit: cover; /* Ensures the image covers the area without distortion */
-  margin: 5px; /* Optional: add some space between images */
-}

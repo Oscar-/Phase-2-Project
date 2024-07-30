@@ -8,9 +8,12 @@
     text-align: center;
     font-size: min(15vw, 15px) ;
     color: 46465C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
   
 a.active {
     background: black;
-    color: D1782E;
+    color: white;
 }
