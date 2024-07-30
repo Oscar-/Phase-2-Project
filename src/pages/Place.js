@@ -22,8 +22,18 @@ function Place() {
         <NavBar />
       </header>
       <main>
-        <h1>{}</h1>
-        <p>{}</p>
+        <h1>{place.name}</h1>
+        <p>
+          <img src={place.image} className="place-image"/>
+          <a href={place.link}>Visit {place.name}</a>
+          <br />
+          City: {place.city}
+          <br />
+          Rating: {place.rating}
+          <br />
+          Good For: {place.goodFor}
+          <br />
+        </p>
         <div>{}</div>
       </main>
     </>

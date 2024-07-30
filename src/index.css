@@ -1,7 +1,6 @@
 body {
   font-family: Monospace, sans-serif;
   background: white
- 
 }
 
 /* code {
@@ -9,14 +8,50 @@ body {
 } */
  header {
   display: flex;
-  align-items: center; /* Vertically align items */
-  justify-content: space-between; /* Space items evenly */
+  align-items: center;
+  justify-content: space-between;
   padding: 20px;
 }
 
 .logo-name {
   font-size: 24px;
   margin: 0;
+}
+
+.logo-image {
+  width: 150px;
+  height: auto; 
+}
+
+.card-image {
+  width: 150px; 
+  height: auto; 
+  display: block;
+  margin-bottom: '16px';
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: -8px;
+  margin-left: 10px;
+}
+
+.home {
+margin-left: 10px;
+}
+
+.card {
+  flex: 1 1 calc(25% - 16px);
+  box-sizing: border-box;
+}
+
+.place-image {
+  width: 300px; 
+  height: auto; 
+  display: block;
+  margin-bottom: '16px';
 }
 
 .navbar {
@@ -29,7 +64,7 @@ body {
   color: black;
   font-size: 18px;
   padding: 10px 20px;
-  border-radius: 30px; /* Rounded corners */
+  border-radius: 30px;
 }
 
 .navbar a:hover {

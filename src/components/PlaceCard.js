@@ -1,12 +1,15 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
+import Place from '../pages/Place';
 
-function PlaceCard({ id }) {
+function PlaceCard({ id, title, image }) {
   
   return (
-    <article>
-        <h2>"Hello"</h2>
-        <Link to={`/places/${id}`}>View Info</Link>
+    <article className="card">
+        <h2>{title}</h2>
+        <img src={image} className="card-image"/>
+        <br />
+        <Link to={`/place/${id}`}>View Info</Link>
     </article>
   );
 };
