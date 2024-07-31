@@ -39,4 +39,4 @@ function PlaceCard({ id, title, image, favorite }) {
   );
 };
 
-export default PlaceCard;
+export default PlaceCard

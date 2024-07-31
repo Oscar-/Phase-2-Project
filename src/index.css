@@ -3,9 +3,7 @@ body {
   background: white
 }
 
-/* code {
-  font-family: Monospace, sans-serif;                
-} */
+
  header {
   display: flex;
   align-items: center;
@@ -24,7 +22,7 @@ body {
 }
 
 .card-image {
-  width: 150px; 
+  width: 250px; 
   height: auto; 
   display: block;
   margin-bottom: '16px';
@@ -78,7 +76,7 @@ margin-left: 10px;
 
 .navbar a {
   text-decoration: none;
-  color: black;
+  color: whitesmoke;
   font-size: 18px;
   padding: 10px 20px;
   border-radius: 30px;
@@ -87,3 +85,4 @@ margin-left: 10px;
 .navbar a:hover {
   text-decoration: underline;
 }
+

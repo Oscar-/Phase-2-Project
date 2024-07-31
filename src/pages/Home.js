@@ -6,6 +6,7 @@ import PlaceCard from "../components/PlaceCard";
 function Home() {
 
   const [places, setPlaces] = useState([]);
+  
 
   //get data from db.json and set the state
   useEffect(() => {
