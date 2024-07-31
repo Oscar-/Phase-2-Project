@@ -1,7 +1,7 @@
+//at least 3 routes
 import Home from "./pages/Home";
 import About from "./pages/About";
 import AddPlace from "./pages/AddPlace";
-import AllPlaces from "./pages/AllPlaces";
 import Map from "./pages/Map";
 import Place from "./pages/Place";
 import ErrorPage from "./pages/ErrorPage";
@@ -20,11 +20,6 @@ const routes = [
     {
       path: "/addplace",
       element: <AddPlace />,
-      errorElement: <ErrorPage />
-    },
-    {
-      path: "/allplaces",
-      element: <AllPlaces />,
       errorElement: <ErrorPage />
     },
     {

@@ -2,11 +2,13 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import NavBar from "../components/NavBar";
 
+//component 3
 function Place() {
 
   const [place, setPlace] = useState(null);
   const { id } = useParams();
 
+  //using params for dynamic ability to grab specific place id
   useEffect(() => {
     fetch(`http://localhost:4000/places/${id}`)
     .then(res => res.json())
@@ -16,6 +18,7 @@ function Place() {
 
   if (!place) return <h1>Loading...</h1>;
 
+  //render the place info with the fetched data
   return (
     <>
       <header>

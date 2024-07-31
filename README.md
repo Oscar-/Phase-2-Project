@@ -39,7 +39,7 @@ An example of data for your db.json:
 
 
 Three stretch goals
-1.	Toggle if been to
+1.	Toggle want to go
 2.	Update goodFor or rating
 3.	Show on map
 
