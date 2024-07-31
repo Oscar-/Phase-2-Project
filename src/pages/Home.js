@@ -34,6 +34,7 @@ function Home() {
       </header>
       <main>
         <h1 className="home">Home</h1>
+        
         <section className="cards">
         {places.map(place => (
           <PlaceCard key={place.id} id={place.id} image={place.image} title={place.name} favorite={place.favorite} places={places} />

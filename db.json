@@ -31,7 +31,7 @@
       "rating": 9,
       "goodFor": "Nightlife, Cocktails",
       "image": "https://i0.wp.com/blackgirlswhobrunch.com/wp-content/uploads/2019/09/Bravery-Chef-Hall-9.jpg?resize=1100%2C825&ssl=1",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": "4",
@@ -64,7 +64,7 @@
       "rating": 9,
       "goodFor": "Coffee, Study/Work",
       "image": "https://lucecoffeeroasters.com/wp-content/uploads/2024/06/WASHINGTON-INSIDE-BOTTOM-1.png",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": "7",
@@ -108,7 +108,7 @@
       "rating": 7,
       "goodFor": "Pizza, Family",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NYC-East_Harlem-Patsy%27s_Pizzeria-01.jpg",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": "11",
@@ -141,7 +141,7 @@
       "rating": 9,
       "goodFor": "Italian dishes",
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/7b/fb/b9/casa-tua.jpg",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": "14",
@@ -174,7 +174,7 @@
       "rating": 9,
       "goodFor": "Sushi, Omakase",
       "image": "https://www.tastingtable.com/img/gallery/sushi-nakazawa-lunch-nyc/image-import.jpg",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": "17",
@@ -218,8 +218,7 @@
       "rating": 9,
       "goodFor": "Greek comfort food & bar",
       "image": "https://lh3.googleusercontent.com/dWldYwiq2HhfR3bGg6TI3dPEw37jyrg_4rNw2LDegb3SD3q1GAh5cKuJlKgcapXAQsww3KxJu70HCNyOpq_h_FFcVi4cRVGhVFPmB_VTjQ",
-      "favorite": false
+      "favorite": true
     }
-    
   ]
 }

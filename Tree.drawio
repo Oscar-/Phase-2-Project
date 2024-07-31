@@ -29,6 +29,14 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="365" y="75" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="2" value="Home&lt;br&gt;&lt;br&gt;state: places&lt;br&gt;effect: places&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="365" y="10" width="120" height="130" as="geometry"/>
                 </mxCell>
@@ -50,8 +58,11 @@
                 <mxCell id="6" value="AddPlace&lt;br&gt;&lt;br&gt;PATCH &amp;amp; POST&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="550" y="240" width="120" height="90" as="geometry"/>
                 </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="7" value="Map" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="395" width="120" height="90" as="geometry"/>
+                    <mxGeometry x="-40" y="30" width="120" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="13" value="NavBar&lt;br&gt;&lt;br&gt;&amp;lt;NavLink /&amp;gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="120" y="240" width="120" height="90" as="geometry"/>
