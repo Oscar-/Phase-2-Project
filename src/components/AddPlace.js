@@ -22,7 +22,7 @@ const AddPlaceForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    fetch(`http://localhost:4000/places/`, {
+    fetch(`http://localhost:4000/places/${id}`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

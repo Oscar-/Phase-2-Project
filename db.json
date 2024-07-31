@@ -1,106 +1,106 @@
 {
-    "places": [
-      {
-        "id": 1,
-        "name": "Memorial Park",
-        "city": "Houston",
-        "category": "Park",
-        "link": "https://www.memorialparkconservancy.org/",
-        "rating": 8,
-        "goodFor": "Kids, Romantic",
-        "image": "https://www.memorialparkconservancy.org/wp-content/uploads/2020/07/Boardwalk-Walking-Path-over-Hines-Lake-and-wetlands-in-Clay-Family-Eastern-Glades-Image-Courtesy-of-Memorial-Park-Conservancy-scaled.jpg",
-        "favorite": true
-      },
-      {
-        "id": 2,
-        "name": "Laspada's Original Hoagies",
-        "city": "Lauderdale-By-The-Sea",
-        "category": "Restaurant",
-        "link": "https://laspadashoagies.com/",
-        "rating": 9,
-        "goodFor": "Lunch, Takeout",
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/83/2c/b0/laspada-s-hoagies.jpg",
-        "favorite": true
-      },
-      {
-        "id": 3,
-        "name": "Soho Garden",
-        "city": "Houston",
-        "category": "Cocktail Bar",
-        "link": "https://sohogardenhtx.com/",
-        "rating": 9,
-        "goodFor": "Nightlife, Cocktails",
-        "image": "https://i0.wp.com/blackgirlswhobrunch.com/wp-content/uploads/2019/09/Bravery-Chef-Hall-9.jpg?resize=1100%2C825&ssl=1",
-        "favorite": false
-      },
-      {
-        "id": 4,
-        "name": "Bori",
-        "city": "Houston",
-        "category": "Korean BBQ Restaurant",
-        "link": "https://www.borirestaurant.com/",
-        "rating": 10,
-        "goodFor": "Foodies, Special event",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipOT5yCZKrXzPcNitbX0rjeUX6XQnb5Vxukl9ekv=s1360-w1360-h1020",
-        "favorite": true
-      },
-      {
-        "id": 5,
-        "name": "Vibrant",
-        "city": "Houston",
-        "category": "Cafe",
-        "link": "https://www.wearevibrant.com/",
-        "rating": 8,
-        "goodFor": "Brunch, Coffee",
-        "image":"https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_566,q_65,w_768/v1/crm/houston/8715_Interior0-fececd44d6f2696_fecece5b-b1c2-e2db-b9a4550edc8b7880.jpg",
-        "favorite": true
-      },
-      {
-        "id": 6,
-        "name": "Luce Coffee",
-        "city": "Houston",
-        "category": "Coffee",
-        "link": "https://lucecoffeeroasters.com/",
-        "rating": 9,
-        "goodFor": "Coffee, Study/Work",
-        "image": "https://lucecoffeeroasters.com/wp-content/uploads/2024/06/WASHINGTON-INSIDE-BOTTOM-1.png",
-        "favorite": false
-      },
-      {
-        "id": 7,
-        "name": "RiceNMix",
-        "city": "Houston",
-        "category": "Korean Restaurant",
-        "link": "https://www.instagram.com/ricenmixtx/?igshid=MzRlODBiNWFlZA%3D%3D",
-        "rating": 10,
-        "goodFor": "Korean Fried Chicken, Korean Food",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipOq37iDxCTr5mIFK35KO1_-Uoob5yDDf0DIYgIK=s1360-w1360-h1020",
-        "favorite": true
-      },
-      {
-        "id": 8,
-        "name": "March",
-        "city": "Houston",
-        "category": "Mediterranean Restaraunt",
-        "link": "https://www.marchrestaurant.com/",
-        "rating": 10,
-        "goodFor": "Culinary Experience, Date Night",
-        "image":"https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/houston/img_1709_2782951A-EC8C-3328-88D435BAE6D9791F-2782926bc84b25a_2782957c-c242-4c49-821b39a2a4d40e42.jpg",
-        "favorite": true
-      },
-      {
-        "id": 9,
-        "name": "Boutros",
-        "city": "New York",
-        "category": "Middle Eastern Restaraunt",
-        "link": "https://boutrosbk.com/",
-        "rating": 10,
-        "goodFor": "American & Middle Eastern cooking",
-        "image":"https://lh3.googleusercontent.com/p/AF1QipO2wZh8yK1Ig70l4vWVTb3rtJAewcmBm9cS7Ngo=s1360-w1360-h1020",
-        "favorite": true
-      },
-      {
-      "id": 10,
+  "places": [
+    {
+      "id": "1",
+      "name": "Memorial Park",
+      "city": "Houston",
+      "category": "Park",
+      "link": "https://www.memorialparkconservancy.org/",
+      "rating": 8,
+      "goodFor": "Kids, Romantic",
+      "image": "https://www.memorialparkconservancy.org/wp-content/uploads/2020/07/Boardwalk-Walking-Path-over-Hines-Lake-and-wetlands-in-Clay-Family-Eastern-Glades-Image-Courtesy-of-Memorial-Park-Conservancy-scaled.jpg",
+      "favorite": true
+    },
+    {
+      "id": "2",
+      "name": "Laspada's Original Hoagies",
+      "city": "Lauderdale-By-The-Sea",
+      "category": "Restaurant",
+      "link": "https://laspadashoagies.com/",
+      "rating": 9,
+      "goodFor": "Lunch, Takeout",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/83/2c/b0/laspada-s-hoagies.jpg",
+      "favorite": true
+    },
+    {
+      "id": "3",
+      "name": "Soho Garden",
+      "city": "Houston",
+      "category": "Cocktail Bar",
+      "link": "https://sohogardenhtx.com/",
+      "rating": 9,
+      "goodFor": "Nightlife, Cocktails",
+      "image": "https://i0.wp.com/blackgirlswhobrunch.com/wp-content/uploads/2019/09/Bravery-Chef-Hall-9.jpg?resize=1100%2C825&ssl=1",
+      "favorite": false
+    },
+    {
+      "id": "4",
+      "name": "Bori",
+      "city": "Houston",
+      "category": "Korean BBQ Restaurant",
+      "link": "https://www.borirestaurant.com/",
+      "rating": 10,
+      "goodFor": "Foodies, Special event",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOT5yCZKrXzPcNitbX0rjeUX6XQnb5Vxukl9ekv=s1360-w1360-h1020",
+      "favorite": true
+    },
+    {
+      "id": "5",
+      "name": "Vibrant",
+      "city": "Houston",
+      "category": "Cafe",
+      "link": "https://www.wearevibrant.com/",
+      "rating": 8,
+      "goodFor": "Brunch, Coffee",
+      "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_566,q_65,w_768/v1/crm/houston/8715_Interior0-fececd44d6f2696_fecece5b-b1c2-e2db-b9a4550edc8b7880.jpg",
+      "favorite": true
+    },
+    {
+      "id": "6",
+      "name": "Luce Coffee",
+      "city": "Houston",
+      "category": "Coffee",
+      "link": "https://lucecoffeeroasters.com/",
+      "rating": 9,
+      "goodFor": "Coffee, Study/Work",
+      "image": "https://lucecoffeeroasters.com/wp-content/uploads/2024/06/WASHINGTON-INSIDE-BOTTOM-1.png",
+      "favorite": false
+    },
+    {
+      "id": "7",
+      "name": "RiceNMix",
+      "city": "Houston",
+      "category": "Korean Restaurant",
+      "link": "https://www.instagram.com/ricenmixtx/?igshid=MzRlODBiNWFlZA%3D%3D",
+      "rating": 10,
+      "goodFor": "Korean Fried Chicken, Korean Food",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOq37iDxCTr5mIFK35KO1_-Uoob5yDDf0DIYgIK=s1360-w1360-h1020",
+      "favorite": true
+    },
+    {
+      "id": "8",
+      "name": "March",
+      "city": "Houston",
+      "category": "Mediterranean Restaraunt",
+      "link": "https://www.marchrestaurant.com/",
+      "rating": 10,
+      "goodFor": "Culinary Experience, Date Night",
+      "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/houston/img_1709_2782951A-EC8C-3328-88D435BAE6D9791F-2782926bc84b25a_2782957c-c242-4c49-821b39a2a4d40e42.jpg",
+      "favorite": true
+    },
+    {
+      "id": "9",
+      "name": "Boutros",
+      "city": "New York",
+      "category": "Middle Eastern Restaraunt",
+      "link": "https://boutrosbk.com/",
+      "rating": 10,
+      "goodFor": "American & Middle Eastern cooking",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipO2wZh8yK1Ig70l4vWVTb3rtJAewcmBm9cS7Ngo=s1360-w1360-h1020",
+      "favorite": true
+    },
+    {
+      "id": "10",
       "name": "Patsys Pizzeria",
       "city": "New York",
       "category": "Restaurant",
@@ -111,7 +111,7 @@
       "favorite": false
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Lilia",
       "city": "New York",
       "category": "Italian Restaurant",
@@ -122,7 +122,7 @@
       "favorite": true
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Prime 112",
       "city": "Miami Beach",
       "category": "Italian Restaurant",
@@ -133,7 +133,7 @@
       "favorite": true
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Casa Tua",
       "city": "Miami Beach",
       "category": "Italian Restaurant",
@@ -144,7 +144,7 @@
       "favorite": false
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Ess-a-Bagel",
       "city": "New York",
       "category": "Bagel Cafe",
@@ -155,18 +155,18 @@
       "favorite": true
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Versailles",
       "city": "Little Havana",
       "category": "Cuban Restaurant",
       "link": "https://www.versaillesrestaurant.com/",
       "rating": 8,
       "goodFor": "Cuban food",
-      "image":"https://res.cloudinary.com/the-infatuation/image/upload/q_auto,f_auto/images/Versailles-7_1_1_p8giuk",
+      "image": "https://res.cloudinary.com/the-infatuation/image/upload/q_auto,f_auto/images/Versailles-7_1_1_p8giuk",
       "favorite": true
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Sushi Nakazawa",
       "city": "New York",
       "category": "Sushi",
@@ -177,7 +177,7 @@
       "favorite": false
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Baja Cafe",
       "city": "Deerfield Beach",
       "category": "Mexican Restaurant",
@@ -188,7 +188,7 @@
       "favorite": true
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Dons Bogam",
       "city": "New York",
       "category": "Korean BBQ Restaurant",
@@ -199,18 +199,18 @@
       "favorite": true
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Capital Grille",
       "city": "Miami",
       "category": "American Steakhouse",
       "link": "https://www.thecapitalgrille.com/locations/fl/miami/miami/8006?cmpid=br:tcg_ag:ie_ch:loc_ca:TCGGMB_sn:gmb_gt:miami-fl-8006_pl:locurl_rd:1004",
       "rating": 8,
       "goodFor": "Steak, Wine",
-      "image":"https://lh3.googleusercontent.com/p/AF1QipP0pAy4q8h4qjsiyEfeha7w7N27yDh5Q1JJfR_i=s1360-w1360-h1020",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipP0pAy4q8h4qjsiyEfeha7w7N27yDh5Q1JJfR_i=s1360-w1360-h1020",
       "favorite": true
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "The Greek Tribeca",
       "city": "New York",
       "category": "Greek Restaurant",
@@ -220,6 +220,6 @@
       "image": "https://lh3.googleusercontent.com/dWldYwiq2HhfR3bGg6TI3dPEw37jyrg_4rNw2LDegb3SD3q1GAh5cKuJlKgcapXAQsww3KxJu70HCNyOpq_h_FFcVi4cRVGhVFPmB_VTjQ",
       "favorite": false
     }
-    ]
+    
+  ]
 }
-  
