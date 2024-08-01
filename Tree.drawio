@@ -37,11 +37,8 @@
                 <mxCell id="32" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="7">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Home&lt;br&gt;&lt;br&gt;state: places&lt;br&gt;effect: places&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="2" value="Home&lt;br&gt;&lt;br&gt;&lt;br&gt;state: places&lt;br&gt;effect: places&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="365" y="10" width="120" height="130" as="geometry"/>
-                </mxCell>
-                <mxCell id="3" value="AllPlaces" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="590" y="395" width="120" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="13">
                     <mxGeometry relative="1" as="geometry"/>
@@ -67,7 +64,7 @@
                 <mxCell id="13" value="NavBar&lt;br&gt;&lt;br&gt;&amp;lt;NavLink /&amp;gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="120" y="240" width="120" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="PlaceCard" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="14" value="PlaceCard&lt;br&gt;&lt;br&gt;state: favorite" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="720" y="240" width="120" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="13">

@@ -24,6 +24,11 @@ function Home() {
     .catch(error => console.error(error))
   }, [])
 
+// const for handleDelete
+  const handleDelete= (id) => {
+    setPlaces(id)
+  }
+
   //render all of the places fetched in a grid using the PlaceCard component
   return (
     <>
@@ -37,7 +42,7 @@ function Home() {
         
         <section className="cards">
         {places.map(place => (
-          <PlaceCard key={place.id} id={place.id} image={place.image} title={place.name} favorite={place.favorite} places={places} />
+          <PlaceCard key={place.id} id={place.id} image={place.image} title={place.name} favorite={place.favorite} places={places} onDelete={handleDelete} />
         ))}
         </section>
       </main>

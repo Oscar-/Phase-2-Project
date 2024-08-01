@@ -1,3 +1,4 @@
+import NavBar from "../components/NavBar";
 import React, { useState } from 'react';
 
 const AddPlaceForm = () => {
@@ -47,6 +48,11 @@ const AddPlaceForm = () => {
   };
 
   return (
+    <>
+      <header>
+        <NavBar />
+      </header>
+      <div className="form-container"> 
     <form onSubmit={handleSubmit}>
       <input type="text" name="name" value={formData.name} onChange={handleChange} placeholder="Name" required />
       <input type="text" name="city" value={formData.city} onChange={handleChange} placeholder="City" required />
@@ -61,6 +67,9 @@ const AddPlaceForm = () => {
       </label>
       <button type="submit">Add Place</button>
     </form>
+    </div>
+    </>
+    
   );
 };
 

@@ -1,10 +1,9 @@
 body {
   font-family: Monospace, sans-serif;
-  background: white
+  background: white;
 }
 
-
- header {
+header {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -25,7 +24,7 @@ body {
   width: 250px; 
   height: auto; 
   display: block;
-  margin-bottom: '16px';
+  margin-bottom: 16px; 
 }
 
 .cards {
@@ -34,10 +33,11 @@ body {
   gap: 16px;
   margin: -8px;
   margin-left: 10px;
+  padding-bottom: 50px; 
 }
 
 .home {
-margin-left: 10px;
+  margin-left: 10px;
 }
 
 .card {
@@ -49,12 +49,12 @@ margin-left: 10px;
   width: 300px; 
   height: auto; 
   display: block;
-  margin-bottom: '16px';
+  margin-bottom: 16px; 
 }
 
 .faveBut {
   font-size: 15px;
-  color: black;
+  color: rgb(255, 255, 255);
   border-radius: 10%;
   padding: 5px;
   margin-left: 5px;
@@ -86,3 +86,44 @@ margin-left: 10px;
   text-decoration: underline;
 }
 
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; 
+  height: 100vh; 
+  padding-top: 50px; 
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px; 
+}
+
+input[type="text"],
+input[type="url"],
+input[type="number"] {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: black; 
+}
+
+label {
+  margin-bottom: 10px;
+  color: white; 
+}
+
+button {
+  padding: 10px;
+  border: none;
+  background-color: #a7d4ecdb;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0f100f;
+}
