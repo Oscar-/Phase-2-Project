@@ -5,7 +5,9 @@ import NavBar from "../components/NavBar";
 //component 5
 function Map ({ places }) {
     
-    //display map, have not had time yet to figure out how to pull lat/long and display specific places
+    //display map; have not had time yet to figure out how to pull lat/long and 
+    //display specific places, but would like to complete this in the future, so please
+    //ignore any unused code in this file for now
     return (
       <>
         <header>
