@@ -1,5 +1,11 @@
 # Phase-2-Project
 
+To run project:
+-git clone
+-npm install
+-npm run server (new terminal/console)
+-npm start (new terminal/console)
+
 Phase 2 Proposal
 
 “FlatMap”

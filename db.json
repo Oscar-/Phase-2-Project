@@ -9,7 +9,7 @@
       "rating": 8,
       "goodFor": "Kids, Romantic",
       "image": "https://www.memorialparkconservancy.org/wp-content/uploads/2020/07/Boardwalk-Walking-Path-over-Hines-Lake-and-wetlands-in-Clay-Family-Eastern-Glades-Image-Courtesy-of-Memorial-Park-Conservancy-scaled.jpg",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "2",
@@ -53,7 +53,7 @@
       "rating": 8,
       "goodFor": "Brunch, Coffee",
       "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_566,q_65,w_768/v1/crm/houston/8715_Interior0-fececd44d6f2696_fecece5b-b1c2-e2db-b9a4550edc8b7880.jpg",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "6",
@@ -64,7 +64,7 @@
       "rating": 9,
       "goodFor": "Coffee, Study/Work",
       "image": "https://lucecoffeeroasters.com/wp-content/uploads/2024/06/WASHINGTON-INSIDE-BOTTOM-1.png",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "7",
@@ -75,7 +75,7 @@
       "rating": 10,
       "goodFor": "Korean Fried Chicken, Korean Food",
       "image": "https://lh3.googleusercontent.com/p/AF1QipOq37iDxCTr5mIFK35KO1_-Uoob5yDDf0DIYgIK=s1360-w1360-h1020",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "8",
@@ -86,7 +86,7 @@
       "rating": 10,
       "goodFor": "Culinary Experience, Date Night",
       "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/houston/img_1709_2782951A-EC8C-3328-88D435BAE6D9791F-2782926bc84b25a_2782957c-c242-4c49-821b39a2a4d40e42.jpg",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "9",
@@ -97,7 +97,7 @@
       "rating": 10,
       "goodFor": "American & Middle Eastern cooking",
       "image": "https://lh3.googleusercontent.com/p/AF1QipO2wZh8yK1Ig70l4vWVTb3rtJAewcmBm9cS7Ngo=s1360-w1360-h1020",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "10",
@@ -108,7 +108,7 @@
       "rating": 7,
       "goodFor": "Pizza, Family",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/NYC-East_Harlem-Patsy%27s_Pizzeria-01.jpg",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "11",
@@ -119,7 +119,7 @@
       "rating": 8,
       "goodFor": "Housmade Pastas & Cocktails",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_Kj1yBxK2rpeWArKKededMsAMpQRVRjA1Q&s",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "12",
@@ -130,7 +130,7 @@
       "rating": 9,
       "goodFor": "Seafood & Grilled meat",
       "image": "https://lh3.googleusercontent.com/p/AF1QipMrq2wgyHQnU4yTxoKocfo2QmCIcFsid-dK_4pM=s1360-w1360-h1020",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "13",
@@ -152,7 +152,7 @@
       "rating": 10,
       "goodFor": "Bagels, Coffee",
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/68/3a/ess-a-bagel-counter.jpg",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "15",
@@ -163,7 +163,7 @@
       "rating": 8,
       "goodFor": "Cuban food",
       "image": "https://res.cloudinary.com/the-infatuation/image/upload/q_auto,f_auto/images/Versailles-7_1_1_p8giuk",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "16",
@@ -174,7 +174,7 @@
       "rating": 9,
       "goodFor": "Sushi, Omakase",
       "image": "https://www.tastingtable.com/img/gallery/sushi-nakazawa-lunch-nyc/image-import.jpg",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "17",
@@ -185,7 +185,7 @@
       "rating": 10,
       "goodFor": "Mexican dishes",
       "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/78/5e/3a/baja-cafe-dos.jpg?w=1200&h=-1&s=1",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "18",
@@ -196,7 +196,7 @@
       "rating": 10,
       "goodFor": "Korean BBQ & Cousine, Wines",
       "image": "https://media.timeout.com/images/100494215/image.jpg",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "20",
@@ -207,7 +207,7 @@
       "rating": 8,
       "goodFor": "Steak, Wine",
       "image": "https://lh3.googleusercontent.com/p/AF1QipP0pAy4q8h4qjsiyEfeha7w7N27yDh5Q1JJfR_i=s1360-w1360-h1020",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "21",
@@ -218,7 +218,18 @@
       "rating": 9,
       "goodFor": "Greek comfort food & bar",
       "image": "https://lh3.googleusercontent.com/dWldYwiq2HhfR3bGg6TI3dPEw37jyrg_4rNw2LDegb3SD3q1GAh5cKuJlKgcapXAQsww3KxJu70HCNyOpq_h_FFcVi4cRVGhVFPmB_VTjQ",
-      "favorite": true
+      "favorite": false
+    },
+    {
+      "id": "cecf",
+      "name": "Jill's Restaurant",
+      "city": "New York",
+      "category": "Restaurant",
+      "link": "https://www.yelp.com/biz/jill-s-bar-and-restaurant-mamaroneck",
+      "rating": "8",
+      "goodFor": "Family, New American",
+      "image": "https://www.lohud.com/gcdn/authoring/authoring-images/2024/04/29/PWES/73504516007-sh-042924-jills-002.JPG?crop=6262,3523,x0,y644&width=3200&height=1801&format=pjpg&auto=webp",
+      "favorite": false
     }
   ]
 }
