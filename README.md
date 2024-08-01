@@ -6,6 +6,7 @@ Phase 2 Proposal
 
 
 A one sentence description of your app
+
 In our app, FlatMap, users can select places where Flatiron students live, toggle whether they've been there, rate and comment on what the specific place is good for, and view it on a map.
 
 A simple wireframe of your site
