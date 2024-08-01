@@ -22,6 +22,7 @@ A simple wireframe of your site:
 Setup: 
 
 Step 1: Fork the Repository
+
 Go to the repository: Navigate to the GitHub page of the repository you want to fork
 
 Fork the repository: Click the "Fork" button at the top right of the page. This will create a copy of the repository in your GitHub account.
@@ -31,6 +32,7 @@ Step 2: Clone the Repository
 Open your terminal: You can use any terminal application of your choice.
 
 Clone the repository: Copy the URL of the forked repository from your GitHub account and run the following command in the terminal: 
+
 git clone <your-forked-repo-url>
 
 Replace <your-forked-repo-url> with the actual URL of your forked repository.
@@ -40,6 +42,7 @@ Step 3: Open the Project in VS Code
 Navigate to the project directory: Change into the directory of your cloned repository by running:
 
 cd <your-repo-name>
+
 Replace <your-repo-name> with the name of your repository.
 
 Open VS Code: Run the following command to open the project in Visual Studio Code:
@@ -59,11 +62,13 @@ Open two terminal windows: You’ll need to open separate terminal windows or ta
 Start the server: In the first terminal window, run the server using:
 
 npm run server
+
 Ensure that the server is running on http://localhost:4000/places.
 
 Start the application: In the second terminal window, navigate to the project directory if you haven’t already, and run:
 
 npm start
+
 This will start the development server and open the application in your default web browser.
 
 Step 6: Verify the Setup
