@@ -62,7 +62,7 @@ header {
 
 .checkBut {
   font-size: 15px;
-  background: lightblue;
+  background: rgba(255, 166, 0, 0.606);
   color: white;
   border-radius: 10%;
   padding: 5px;
@@ -126,4 +126,8 @@ button {
 
 button:hover {
   background-color: #0f100f;
+}
+
+.favorite {
+  color: black
 }

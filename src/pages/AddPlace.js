@@ -61,7 +61,7 @@ const AddPlaceForm = () => {
       <input type="number" name="rating" value={formData.rating} onChange={handleChange} placeholder="Rating" required />
       <input type="text" name="goodFor" value={formData.goodFor} onChange={handleChange} placeholder="Good For" required />
       <input type="url" name="image" value={formData.image} onChange={handleChange} placeholder="Image URL" required />
-      <label>
+      <label className="favorite">
         Favorite
         <input type="checkbox" name="favorite" checked={formData.favorite} onChange={handleChange} />
       </label>
